@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, programming, and 
 ## 📫 How to Reach Me
 - **Email:** [mohanmurarikongarapu@gmail.com](mailto:mohanmurarikongarapu@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mohan-murari](https://linkedin.com/in/mohan-murari)
-
+- **X:** [x.com/mohan_murari_k](https://x.com/mohan_murari_k)
 ---
 
 Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to connect. Let's build something amazing together! 🚀
